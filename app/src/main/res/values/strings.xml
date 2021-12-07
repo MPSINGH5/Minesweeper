@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="Minesweeper">Minesweeper</string>
+    <string name="Difficulty">Select Difficulty</string>
+    <string name="EASY">Easy</string>
+    <string name="MEDIUM">Medium</string>
+    <string name="HARD">Hard</string>
+    <string name="OR">Or</string>
+    <string name="Custom">Make A Custom Board</string>
+    <string name="START">START</string>
+    <string name="MINES">MINES</string>
+    <string name="TIME">TIME</string>
+    <string name="RESTART">RESTART</string>
+</resources>
